@@ -4,6 +4,8 @@ This tool allows staff to opt-in for alerts whenever a new partnership is being 
 
 The information is sourced from the calendars of staff who opt-in.
 
+Please note this is completed untested code, and is intended to serve only as a proof of concept in how this might be implemented.
+
 ## Usage
 
 To use the Murray's Partnership Alert Tool, follow these steps:
